@@ -1,0 +1,12 @@
+/workspaces/storekey/Storekey/bin/Debug/net6.0/Storekey.deps.json
+/workspaces/storekey/Storekey/bin/Debug/net6.0/Storekey.dll
+/workspaces/storekey/Storekey/bin/Debug/net6.0/Storekey.pdb
+/workspaces/storekey/Storekey/obj/Debug/net6.0/Storekey.csproj.AssemblyReference.cache
+/workspaces/storekey/Storekey/obj/Debug/net6.0/Storekey.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/storekey/Storekey/obj/Debug/net6.0/Storekey.AssemblyInfoInputs.cache
+/workspaces/storekey/Storekey/obj/Debug/net6.0/Storekey.AssemblyInfo.cs
+/workspaces/storekey/Storekey/obj/Debug/net6.0/Storekey.csproj.CoreCompileInputs.cache
+/workspaces/storekey/Storekey/obj/Debug/net6.0/Storekey.dll
+/workspaces/storekey/Storekey/obj/Debug/net6.0/refint/Storekey.dll
+/workspaces/storekey/Storekey/obj/Debug/net6.0/Storekey.pdb
+/workspaces/storekey/Storekey/obj/Debug/net6.0/ref/Storekey.dll

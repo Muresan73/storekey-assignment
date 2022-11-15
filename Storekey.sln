@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storekey", "Storekey\Storekey.csproj", "{D69B0B9C-DBB5-4B42-9BE1-367880EC4CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storekey.Tests", "Storekey.Tests\Storekey.Tests.csproj", "{6A4FBE21-60A1-47B9-AD73-21BCA3CCCDB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69B0B9C-DBB5-4B42-9BE1-367880EC4CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69B0B9C-DBB5-4B42-9BE1-367880EC4CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69B0B9C-DBB5-4B42-9BE1-367880EC4CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69B0B9C-DBB5-4B42-9BE1-367880EC4CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4FBE21-60A1-47B9-AD73-21BCA3CCCDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4FBE21-60A1-47B9-AD73-21BCA3CCCDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4FBE21-60A1-47B9-AD73-21BCA3CCCDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4FBE21-60A1-47B9-AD73-21BCA3CCCDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
